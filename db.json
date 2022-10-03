@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "id": 18,
+      "employee_name": "Virat Kohli",
+      "employee_email": "kingkohli@gmail.com",
+      "employee_salary": 154000,
+      "employee_age": "33"
+    },
+    {
+      "id": 6,
+      "employee_name": "Ankammarao",
+      "employee_email": "miriyala@gmail.com",
+      "employee_salary": "117000",
+      "employee_age": "48"
+    },
+    {
+      "id": 2,
+      "employee_name": "Power star Pawan Kalyan",
+      "employee_email": "janasena@gmail.com",
+      "employee_salary": "4000000",
+      "employee_age": "50"
+    },
+    {
+      "id": 22,
+      "employee_name": "MegaStar Chiranjeevi",
+      "employee_email": "boss@gmail.com",
+      "employee_salary": "3800000",
+      "employee_age": "56"
+    },
+    {
+      "id": 17,
+      "employee_name": "Ab Devilliers",
+      "employee_email": "abd360@gmail.com",
+      "employee_salary": "150000",
+      "employee_age": "37"
+    },
+    {
+      "id": 21,
+      "employee_name": "Miriyala Sai Dhanunjai",
+      "employee_email": "dhanunjaiiriyala7@gmail.com",
+      "employee_salary": "400000",
+      "employee_age": "22"
+    }
+  ],
+  "admin": [
+    {
+      "email": "admin",
+      "password": "password",
+      "id": 1
+    }
+  ]
+}
